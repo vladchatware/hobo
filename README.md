@@ -1,1 +1,1 @@
-- [https://developers.notion.com/docs/authorization](Notion authorization)
+- [Notion authorization](https://developers.notion.com/docs/authorization)
